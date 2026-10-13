@@ -1,0 +1,437 @@
+{
+  "items": [
+    {
+      "id": "stick",
+      "name": "Stick",
+      "texture": "stick.png",
+      "max_stack": 64,
+      "is_material": true
+    },
+    {
+      "id": "coal",
+      "name": "Coal",
+      "texture": "coal.png",
+      "max_stack": 64,
+      "is_material": true,
+      "is_fuel": true,
+      "burn_time": 1600
+    },
+    {
+      "id": "raw_iron",
+      "name": "Raw Iron",
+      "texture": "raw_iron.png",
+      "max_stack": 64,
+      "is_material": true
+    },
+    {
+      "id": "iron_ingot",
+      "name": "Iron Ingot",
+      "texture": "iron_ingot.png",
+      "max_stack": 64,
+      "is_material": true
+    },
+    {
+      "id": "raw_gold",
+      "name": "Raw Gold",
+      "texture": "raw_gold.png",
+      "max_stack": 64,
+      "is_material": true
+    },
+    {
+      "id": "gold_ingot",
+      "name": "Gold Ingot",
+      "texture": "gold_ingot.png",
+      "max_stack": 64,
+      "is_material": true
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "texture": "diamond.png",
+      "max_stack": 64,
+      "is_material": true
+    },
+    {
+      "id": "redstone",
+      "name": "Redstone",
+      "texture": "redstone.png",
+      "max_stack": 64,
+      "is_material": true
+    },
+    {
+      "id": "wooden_pickaxe",
+      "name": "Wooden Pickaxe",
+      "texture": "wooden_pickaxe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "pickaxe",
+      "tier": "wood",
+      "durability": 59,
+      "mining_speed": 2.0,
+      "damage": 2.0
+    },
+    {
+      "id": "stone_pickaxe",
+      "name": "Stone Pickaxe",
+      "texture": "stone_pickaxe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "pickaxe",
+      "tier": "stone",
+      "durability": 131,
+      "mining_speed": 4.0,
+      "damage": 3.0
+    },
+    {
+      "id": "iron_pickaxe",
+      "name": "Iron Pickaxe",
+      "texture": "iron_pickaxe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "pickaxe",
+      "tier": "iron",
+      "durability": 250,
+      "mining_speed": 6.0,
+      "damage": 4.0
+    },
+    {
+      "id": "gold_pickaxe",
+      "name": "Gold Pickaxe",
+      "texture": "gold_pickaxe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "pickaxe",
+      "tier": "gold",
+      "durability": 32,
+      "mining_speed": 12.0,
+      "damage": 2.0
+    },
+    {
+      "id": "diamond_pickaxe",
+      "name": "Diamond Pickaxe",
+      "texture": "diamond_pickaxe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "pickaxe",
+      "tier": "diamond",
+      "durability": 1561,
+      "mining_speed": 8.0,
+      "damage": 5.0
+    },
+    {
+      "id": "wooden_axe",
+      "name": "Wooden Axe",
+      "texture": "wooden_axe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "axe",
+      "tier": "wood",
+      "durability": 59,
+      "mining_speed": 2.0,
+      "damage": 4.0
+    },
+    {
+      "id": "stone_axe",
+      "name": "Stone Axe",
+      "texture": "stone_axe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "axe",
+      "tier": "stone",
+      "durability": 131,
+      "mining_speed": 4.0,
+      "damage": 5.0
+    },
+    {
+      "id": "iron_axe",
+      "name": "Iron Axe",
+      "texture": "iron_axe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "axe",
+      "tier": "iron",
+      "durability": 250,
+      "mining_speed": 6.0,
+      "damage": 6.0
+    },
+    {
+      "id": "gold_axe",
+      "name": "Gold Axe",
+      "texture": "gold_axe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "axe",
+      "tier": "gold",
+      "durability": 32,
+      "mining_speed": 12.0,
+      "damage": 4.0
+    },
+    {
+      "id": "diamond_axe",
+      "name": "Diamond Axe",
+      "texture": "diamond_axe.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "axe",
+      "tier": "diamond",
+      "durability": 1561,
+      "mining_speed": 8.0,
+      "damage": 7.0
+    },
+    {
+      "id": "wooden_shovel",
+      "name": "Wooden Shovel",
+      "texture": "wooden_shovel.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "shovel",
+      "tier": "wood",
+      "durability": 59,
+      "mining_speed": 2.0,
+      "damage": 1.5
+    },
+    {
+      "id": "stone_shovel",
+      "name": "Stone Shovel",
+      "texture": "stone_shovel.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "shovel",
+      "tier": "stone",
+      "durability": 131,
+      "mining_speed": 4.0,
+      "damage": 2.5
+    },
+    {
+      "id": "iron_shovel",
+      "name": "Iron Shovel",
+      "texture": "iron_shovel.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "shovel",
+      "tier": "iron",
+      "durability": 250,
+      "mining_speed": 6.0,
+      "damage": 3.5
+    },
+    {
+      "id": "gold_shovel",
+      "name": "Gold Shovel",
+      "texture": "gold_shovel.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "shovel",
+      "tier": "gold",
+      "durability": 32,
+      "mining_speed": 12.0,
+      "damage": 1.5
+    },
+    {
+      "id": "diamond_shovel",
+      "name": "Diamond Shovel",
+      "texture": "diamond_shovel.png",
+      "max_stack": 1,
+      "is_tool": true,
+      "tool_type": "shovel",
+      "tier": "diamond",
+      "durability": 1561,
+      "mining_speed": 8.0,
+      "damage": 4.5
+    },
+    {
+      "id": "wooden_sword",
+      "name": "Wooden Sword",
+      "texture": "wooden_sword.png",
+      "max_stack": 1,
+      "is_weapon": true,
+      "weapon_type": "sword",
+      "tier": "wood",
+      "durability": 59,
+      "damage": 4.0
+    },
+    {
+      "id": "stone_sword",
+      "name": "Stone Sword",
+      "texture": "stone_sword.png",
+      "max_stack": 1,
+      "is_weapon": true,
+      "weapon_type": "sword",
+      "tier": "stone",
+      "durability": 131,
+      "damage": 5.0
+    },
+    {
+      "id": "iron_sword",
+      "name": "Iron Sword",
+      "texture": "iron_sword.png",
+      "max_stack": 1,
+      "is_weapon": true,
+      "weapon_type": "sword",
+      "tier": "iron",
+      "durability": 250,
+      "damage": 6.0
+    },
+    {
+      "id": "gold_sword",
+      "name": "Gold Sword",
+      "texture": "gold_sword.png",
+      "max_stack": 1,
+      "is_weapon": true,
+      "weapon_type": "sword",
+      "tier": "gold",
+      "durability": 32,
+      "damage": 4.0
+    },
+    {
+      "id": "diamond_sword",
+      "name": "Diamond Sword",
+      "texture": "diamond_sword.png",
+      "max_stack": 1,
+      "is_weapon": true,
+      "weapon_type": "sword",
+      "tier": "diamond",
+      "durability": 1561,
+      "damage": 7.0
+    },
+    {
+      "id": "leather_helmet",
+      "name": "Leather Helmet",
+      "texture": "leather_helmet.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "helmet",
+      "tier": "leather",
+      "durability": 55,
+      "protection": 1.0
+    },
+    {
+      "id": "iron_helmet",
+      "name": "Iron Helmet",
+      "texture": "iron_helmet.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "helmet",
+      "tier": "iron",
+      "durability": 165,
+      "protection": 2.0
+    },
+    {
+      "id": "diamond_helmet",
+      "name": "Diamond Helmet",
+      "texture": "diamond_helmet.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "helmet",
+      "tier": "diamond",
+      "durability": 363,
+      "protection": 3.0
+    },
+    {
+      "id": "leather_chestplate",
+      "name": "Leather Chestplate",
+      "texture": "leather_chestplate.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "chestplate",
+      "tier": "leather",
+      "durability": 80,
+      "protection": 2.0
+    },
+    {
+      "id": "iron_chestplate",
+      "name": "Iron Chestplate",
+      "texture": "iron_chestplate.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "chestplate",
+      "tier": "iron",
+      "durability": 240,
+      "protection": 4.0
+    },
+    {
+      "id": "diamond_chestplate",
+      "name": "Diamond Chestplate",
+      "texture": "diamond_chestplate.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "chestplate",
+      "tier": "diamond",
+      "durability": 528,
+      "protection": 5.0
+    },
+    {
+      "id": "leather_leggings",
+      "name": "Leather Leggings",
+      "texture": "leather_leggings.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "leggings",
+      "tier": "leather",
+      "durability": 75,
+      "protection": 2.0
+    },
+    {
+      "id": "iron_leggings",
+      "name": "Iron Leggings",
+      "texture": "iron_leggings.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "leggings",
+      "tier": "iron",
+      "durability": 225,
+      "protection": 3.0
+    },
+    {
+      "id": "diamond_leggings",
+      "name": "Diamond Leggings",
+      "texture": "diamond_leggings.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "leggings",
+      "tier": "diamond",
+      "durability": 495,
+      "protection": 4.0
+    },
+    {
+      "id": "leather_boots",
+      "name": "Leather Boots",
+      "texture": "leather_boots.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "boots",
+      "tier": "leather",
+      "durability": 65,
+      "protection": 1.0
+    },
+    {
+      "id": "iron_boots",
+      "name": "Iron Boots",
+      "texture": "iron_boots.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "boots",
+      "tier": "iron",
+      "durability": 195,
+      "protection": 2.0
+    },
+    {
+      "id": "diamond_boots",
+      "name": "Diamond Boots",
+      "texture": "diamond_boots.png",
+      "max_stack": 1,
+      "is_armor": true,
+      "armor_slot": "boots",
+      "tier": "diamond",
+      "durability": 429,
+      "protection": 3.0
+    },
+    {
+      "id": "torch",
+      "name": "Torch",
+      "texture": "torch.png",
+      "max_stack": 64,
+      "is_light_source": true,
+      "light_level": 14
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "MinecraftErdet",
+  "namespace": "Melty",
+  "version_number": "1.0.0",
+  "description": "Overlays Minecraft's block system, inventory, crafting, and full item tiers into erdetspill's world. Players can place and break blocks, mine resources, and craft using Minecraft recipes within erdetspill's maps.",
+  "website_url": "https://melty.gg",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "authors": ["Melty"],
+      "tags": ["minecraft", "blocks", "crafting", "inventory"],
+      "description_rich": "",
+      "optional_dependencies": [],
+      "load_before": [],
+      "incompatibilities": [],
+      "compatible_mod_loader_version": ["7.0.1"],
+      "compatible_game_version": [],
+      "config_schema": {}
+    }
+  }
+}

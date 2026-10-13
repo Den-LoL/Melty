@@ -1,0 +1,207 @@
+{
+  "blocks": [
+    {
+      "id": "stone",
+      "name": "Stone",
+      "texture": "stone.png",
+      "hardness": 1.5,
+      "tool_required": "pickaxe",
+      "drops": "cobblestone",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "cobblestone",
+      "name": "Cobblestone",
+      "texture": "cobblestone.png",
+      "hardness": 2.0,
+      "tool_required": "pickaxe",
+      "drops": "cobblestone",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "dirt",
+      "name": "Dirt",
+      "texture": "dirt.png",
+      "hardness": 0.5,
+      "tool_required": null,
+      "drops": "dirt",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "grass_block",
+      "name": "Grass Block",
+      "texture": "grass_block.png",
+      "hardness": 0.6,
+      "tool_required": null,
+      "drops": "dirt",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "oak_log",
+      "name": "Oak Log",
+      "texture": "oak_log.png",
+      "hardness": 2.0,
+      "tool_required": "axe",
+      "drops": "oak_log",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "oak_planks",
+      "name": "Oak Planks",
+      "texture": "oak_planks.png",
+      "hardness": 2.0,
+      "tool_required": "axe",
+      "drops": "oak_planks",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "sand",
+      "name": "Sand",
+      "texture": "sand.png",
+      "hardness": 0.5,
+      "tool_required": "shovel",
+      "drops": "sand",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "glass",
+      "name": "Glass",
+      "texture": "glass.png",
+      "hardness": 0.3,
+      "tool_required": null,
+      "drops": null,
+      "is_solid": true,
+      "transparent": true
+    },
+    {
+      "id": "coal_ore",
+      "name": "Coal Ore",
+      "texture": "coal_ore.png",
+      "hardness": 3.0,
+      "tool_required": "pickaxe",
+      "drops": "coal",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "iron_ore",
+      "name": "Iron Ore",
+      "texture": "iron_ore.png",
+      "hardness": 3.0,
+      "tool_required": "pickaxe",
+      "drops": "raw_iron",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "gold_ore",
+      "name": "Gold Ore",
+      "texture": "gold_ore.png",
+      "hardness": 3.0,
+      "tool_required": "pickaxe",
+      "drops": "raw_gold",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "diamond_ore",
+      "name": "Diamond Ore",
+      "texture": "diamond_ore.png",
+      "hardness": 3.0,
+      "tool_required": "pickaxe",
+      "drops": "diamond",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "crafting_table",
+      "name": "Crafting Table",
+      "texture": "crafting_table.png",
+      "hardness": 2.5,
+      "tool_required": "axe",
+      "drops": "crafting_table",
+      "is_solid": true,
+      "transparent": false,
+      "is_crafting_station": true
+    },
+    {
+      "id": "furnace",
+      "name": "Furnace",
+      "texture": "furnace.png",
+      "hardness": 3.5,
+      "tool_required": "pickaxe",
+      "drops": "furnace",
+      "is_solid": true,
+      "transparent": false,
+      "is_smelting_station": true
+    },
+    {
+      "id": "chest",
+      "name": "Chest",
+      "texture": "chest.png",
+      "hardness": 2.5,
+      "tool_required": "axe",
+      "drops": "chest",
+      "is_solid": true,
+      "transparent": false,
+      "is_storage": true
+    },
+    {
+      "id": "iron_block",
+      "name": "Iron Block",
+      "texture": "iron_block.png",
+      "hardness": 5.0,
+      "tool_required": "pickaxe",
+      "drops": "iron_block",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "gold_block",
+      "name": "Gold Block",
+      "texture": "gold_block.png",
+      "hardness": 3.0,
+      "tool_required": "pickaxe",
+      "drops": "gold_block",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "diamond_block",
+      "name": "Diamond Block",
+      "texture": "diamond_block.png",
+      "hardness": 5.0,
+      "tool_required": "pickaxe",
+      "drops": "diamond_block",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "obsidian",
+      "name": "Obsidian",
+      "texture": "obsidian.png",
+      "hardness": 50.0,
+      "tool_required": "pickaxe",
+      "drops": "obsidian",
+      "is_solid": true,
+      "transparent": false
+    },
+    {
+      "id": "redstone_ore",
+      "name": "Redstone Ore",
+      "texture": "redstone_ore.png",
+      "hardness": 3.0,
+      "tool_required": "pickaxe",
+      "drops": "redstone",
+      "is_solid": true,
+      "transparent": false
+    }
+  ]
+}

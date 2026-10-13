@@ -1,0 +1,309 @@
+{
+  "recipes": [
+    {
+      "id": "planks",
+      "result": "oak_planks",
+      "count": 4,
+      "pattern": ["#"],
+      "key": {"#": "oak_log"}
+    },
+    {
+      "id": "stick",
+      "result": "stick",
+      "count": 4,
+      "pattern": ["#", "#"],
+      "key": {"#": "oak_planks"}
+    },
+    {
+      "id": "crafting_table",
+      "result": "crafting_table",
+      "count": 1,
+      "pattern": ["##", "##"],
+      "key": {"#": "oak_planks"}
+    },
+    {
+      "id": "furnace",
+      "result": "furnace",
+      "count": 1,
+      "pattern": ["###", "# #", "###"],
+      "key": {"#": "cobblestone"}
+    },
+    {
+      "id": "chest",
+      "result": "chest",
+      "count": 1,
+      "pattern": ["###", "# #", "###"],
+      "key": {"#": "oak_planks"}
+    },
+    {
+      "id": "wooden_pickaxe",
+      "result": "wooden_pickaxe",
+      "count": 1,
+      "pattern": ["###", " # ", " # "],
+      "key": {"#": "oak_planks"}
+    },
+    {
+      "id": "stone_pickaxe",
+      "result": "stone_pickaxe",
+      "count": 1,
+      "pattern": ["###", " # ", " # "],
+      "key": {"#": "cobblestone"}
+    },
+    {
+      "id": "iron_pickaxe",
+      "result": "iron_pickaxe",
+      "count": 1,
+      "pattern": ["###", " # ", " # "],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "gold_pickaxe",
+      "result": "gold_pickaxe",
+      "count": 1,
+      "pattern": ["###", " # ", " # "],
+      "key": {"#": "gold_ingot"}
+    },
+    {
+      "id": "diamond_pickaxe",
+      "result": "diamond_pickaxe",
+      "count": 1,
+      "pattern": ["###", " # ", " # "],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "wooden_axe",
+      "result": "wooden_axe",
+      "count": 1,
+      "pattern": ["##", "# ", " # "],
+      "key": {"#": "oak_planks"}
+    },
+    {
+      "id": "stone_axe",
+      "result": "stone_axe",
+      "count": 1,
+      "pattern": ["##", "# ", " # "],
+      "key": {"#": "cobblestone"}
+    },
+    {
+      "id": "iron_axe",
+      "result": "iron_axe",
+      "count": 1,
+      "pattern": ["##", "# ", " # "],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "gold_axe",
+      "result": "gold_axe",
+      "count": 1,
+      "pattern": ["##", "# ", " # "],
+      "key": {"#": "gold_ingot"}
+    },
+    {
+      "id": "diamond_axe",
+      "result": "diamond_axe",
+      "count": 1,
+      "pattern": ["##", "# ", " # "],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "wooden_shovel",
+      "result": "wooden_shovel",
+      "count": 1,
+      "pattern": ["#", " #", " #"],
+      "key": {"#": "oak_planks"}
+    },
+    {
+      "id": "stone_shovel",
+      "result": "stone_shovel",
+      "count": 1,
+      "pattern": ["#", " #", " #"],
+      "key": {"#": "cobblestone"}
+    },
+    {
+      "id": "iron_shovel",
+      "result": "iron_shovel",
+      "count": 1,
+      "pattern": ["#", " #", " #"],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "gold_shovel",
+      "result": "gold_shovel",
+      "count": 1,
+      "pattern": ["#", " #", " #"],
+      "key": {"#": "gold_ingot"}
+    },
+    {
+      "id": "diamond_shovel",
+      "result": "diamond_shovel",
+      "count": 1,
+      "pattern": ["#", " #", " #"],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "wooden_sword",
+      "result": "wooden_sword",
+      "count": 1,
+      "pattern": ["#", "#", "#"],
+      "key": {"#": "oak_planks"}
+    },
+    {
+      "id": "stone_sword",
+      "result": "stone_sword",
+      "count": 1,
+      "pattern": ["#", "#", "#"],
+      "key": {"#": "cobblestone"}
+    },
+    {
+      "id": "iron_sword",
+      "result": "iron_sword",
+      "count": 1,
+      "pattern": ["#", "#", "#"],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "gold_sword",
+      "result": "gold_sword",
+      "count": 1,
+      "pattern": ["#", "#", "#"],
+      "key": {"#": "gold_ingot"}
+    },
+    {
+      "id": "diamond_sword",
+      "result": "diamond_sword",
+      "count": 1,
+      "pattern": ["#", "#", "#"],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "leather_helmet",
+      "result": "leather_helmet",
+      "count": 1,
+      "pattern": ["###", "# #"],
+      "key": {"#": "leather"}
+    },
+    {
+      "id": "iron_helmet",
+      "result": "iron_helmet",
+      "count": 1,
+      "pattern": ["###", "# #"],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "diamond_helmet",
+      "result": "diamond_helmet",
+      "count": 1,
+      "pattern": ["###", "# #"],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "leather_chestplate",
+      "result": "leather_chestplate",
+      "count": 1,
+      "pattern": ["# #", "###", "###"],
+      "key": {"#": "leather"}
+    },
+    {
+      "id": "iron_chestplate",
+      "result": "iron_chestplate",
+      "count": 1,
+      "pattern": ["# #", "###", "###"],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "diamond_chestplate",
+      "result": "diamond_chestplate",
+      "count": 1,
+      "pattern": ["# #", "###", "###"],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "leather_leggings",
+      "result": "leather_leggings",
+      "count": 1,
+      "pattern": ["###", "# #", "# #"],
+      "key": {"#": "leather"}
+    },
+    {
+      "id": "iron_leggings",
+      "result": "iron_leggings",
+      "count": 1,
+      "pattern": ["###", "# #", "# #"],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "diamond_leggings",
+      "result": "diamond_leggings",
+      "count": 1,
+      "pattern": ["###", "# #", "# #"],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "leather_boots",
+      "result": "leather_boots",
+      "count": 1,
+      "pattern": ["# #", "# #"],
+      "key": {"#": "leather"}
+    },
+    {
+      "id": "iron_boots",
+      "result": "iron_boots",
+      "count": 1,
+      "pattern": ["# #", "# #"],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "diamond_boots",
+      "result": "diamond_boots",
+      "count": 1,
+      "pattern": ["# #", "# #"],
+      "key": {"#": "diamond"}
+    },
+    {
+      "id": "torch",
+      "result": "torch",
+      "count": 4,
+      "pattern": ["#", "#"],
+      "key": {"#": "coal"}
+    },
+    {
+      "id": "iron_ingot_smelting",
+      "result": "iron_ingot",
+      "count": 1,
+      "smelting": true,
+      "input": "raw_iron",
+      "fuel": "coal",
+      "smelt_time": 200
+    },
+    {
+      "id": "gold_ingot_smelting",
+      "result": "gold_ingot",
+      "count": 1,
+      "smelting": true,
+      "input": "raw_gold",
+      "fuel": "coal",
+      "smelt_time": 200
+    },
+    {
+      "id": "iron_block",
+      "result": "iron_block",
+      "count": 1,
+      "pattern": ["###", "###", "###"],
+      "key": {"#": "iron_ingot"}
+    },
+    {
+      "id": "gold_block",
+      "result": "gold_block",
+      "count": 1,
+      "pattern": ["###", "###", "###"],
+      "key": {"#": "gold_ingot"}
+    },
+    {
+      "id": "diamond_block",
+      "result": "diamond_block",
+      "count": 1,
+      "pattern": ["###", "###", "###"],
+      "key": {"#": "diamond"}
+    }
+  ]
+}
